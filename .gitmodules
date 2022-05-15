@@ -1,3 +1,6 @@
 [submodule "expenses-app"]
 	path = expenses-app
 	url = https://github.com/santhoshsonu/expenses-app
+[submodule "course-goals-app"]
+	path = course-goals-app
+	url = https://github.com/santhoshsonu/course-goals-app
