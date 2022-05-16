@@ -4,3 +4,6 @@
 [submodule "course-goals-app"]
 	path = course-goals-app
 	url = https://github.com/santhoshsonu/course-goals-app
+[submodule "input-validation-guide"]
+	path = input-validation-guide
+	url = https://github.com/santhoshsonu/input-validation-guide
