@@ -7,3 +7,6 @@
 [submodule "input-validation-guide"]
 	path = input-validation-guide
 	url = https://github.com/santhoshsonu/input-validation-guide
+[submodule "hooks-reducers-demo-app"]
+	path = hooks-reducers-demo-app
+	url = https://github.com/santhoshsonu/hooks-reducers-demo-app
