@@ -10,3 +10,6 @@
 [submodule "hooks-reducers-demo-app"]
 	path = hooks-reducers-demo-app
 	url = https://github.com/santhoshsonu/hooks-reducers-demo-app
+[submodule "food-order-app"]
+	path = food-order-app
+	url = https://github.com/santhoshsonu/food-order-app
